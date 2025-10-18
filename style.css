@@ -1,0 +1,6 @@
+body{font-family:system-ui, sans-serif; text-align:center; padding:2rem}
+button{padding:0.7rem 1.4rem; font-size:1.1rem}
+#results{margin-top:1.5rem}
+.blur{filter:blur(5px) grayscale(80%); pointer-events:none}
+.card{border:1px solid #ddd; border-radius:8px; margin:0.5rem auto; padding:0.7rem; max-width:320px}
+.unlock{display:inline-block; margin-top:1rem; background:#36a852; color:#fff; padding:0.6rem 1.2rem; border-radius:4px; text-decoration:none}
